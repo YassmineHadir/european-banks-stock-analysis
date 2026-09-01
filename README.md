@@ -29,10 +29,7 @@ Analyze and compare the stock performance, returns, and volatility of three majo
 
 ##  Key Findings
 
-- **BNP Paribas** delivered the strongest cumulative return at approximately **+59.8%** over 2 years.
-- All three banks showed positive performance over the period, reflecting a generally favorable environment for European banking stocks.
-- Volatility analysis reveals different risk profiles, allowing investors to compare risk-adjusted performance through the Return / Risk ratio.
-- Risk-adjusted comparisons highlight that the highest absolute return doesn't always mean the most efficient investment.
+Sur les deux dernières années, SocGen a surperformé BNP et Santander avec un rendement cumulé de +198% contre +60% et +143%, pour une volatilité comparable ce qui suggère que la hausse a été portée par un vrai re-rating du titre plutôt que par une prise de risque disproportionnée
 
 ##  How to Reproduce
 
